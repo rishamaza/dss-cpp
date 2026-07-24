@@ -157,6 +157,7 @@ I am learning DSA step by step for interview preparation.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -272,6 +273,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0071-simplify-path) |
