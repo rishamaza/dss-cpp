@@ -161,6 +161,7 @@ I am learning DSA step by step for interview preparation.
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0445-add-two-numbers-ii) |
@@ -402,4 +403,8 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
