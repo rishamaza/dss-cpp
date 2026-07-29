@@ -59,6 +59,7 @@ I am learning DSA step by step for interview preparation.
 | [0525-contiguous-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0525-contiguous-array) |
 | [0636-exclusive-time-of-functions](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [0739-daily-temperatures](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -168,12 +169,14 @@ I am learning DSA step by step for interview preparation.
 | [0394-decode-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
