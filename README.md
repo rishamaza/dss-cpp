@@ -63,6 +63,7 @@ I am learning DSA step by step for interview preparation.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0883-car-fleet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0883-car-fleet) |
 | [0940-fruit-into-baskets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
@@ -170,6 +171,7 @@ I am learning DSA step by step for interview preparation.
 | [0445-add-two-numbers-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0883-car-fleet) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -177,6 +179,7 @@ I am learning DSA step by step for interview preparation.
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0883-car-fleet) |
 ## Greedy
 |  |
 | ------- |
@@ -201,6 +204,7 @@ I am learning DSA step by step for interview preparation.
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [0883-car-fleet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 | [1222-remove-covered-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1222-remove-covered-intervals) |
 ## Binary Search
