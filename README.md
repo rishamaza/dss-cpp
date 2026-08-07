@@ -65,6 +65,7 @@ I am learning DSA step by step for interview preparation.
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
@@ -222,6 +223,7 @@ I am learning DSA step by step for interview preparation.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1185-find-in-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
