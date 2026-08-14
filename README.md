@@ -127,6 +127,7 @@ I am learning DSA step by step for interview preparation.
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0940-fruit-into-baskets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
@@ -226,6 +227,7 @@ I am learning DSA step by step for interview preparation.
 | [0792-binary-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1185-find-in-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -304,6 +306,7 @@ I am learning DSA step by step for interview preparation.
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
@@ -423,4 +426,5 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
