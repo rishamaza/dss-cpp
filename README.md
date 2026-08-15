@@ -432,4 +432,8 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0155-min-stack](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
