@@ -151,6 +151,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -336,6 +337,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
