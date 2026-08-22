@@ -117,6 +117,7 @@ I am learning DSA step by step for interview preparation.
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
@@ -351,6 +352,7 @@ I am learning DSA step by step for interview preparation.
 | [0141-linked-list-cycle](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0445-add-two-numbers-ii) |
@@ -442,6 +444,7 @@ I am learning DSA step by step for interview preparation.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
 ## Floyd's Cycle Finding Algorithm
@@ -453,4 +456,8 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
