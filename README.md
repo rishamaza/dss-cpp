@@ -151,6 +151,7 @@ I am learning DSA step by step for interview preparation.
 | [0102-binary-tree-level-order-traversal](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
 ## Two Pointers
@@ -430,6 +431,7 @@ I am learning DSA step by step for interview preparation.
 | [0110-balanced-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
@@ -443,6 +445,7 @@ I am learning DSA step by step for interview preparation.
 | [0110-balanced-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
@@ -456,6 +459,7 @@ I am learning DSA step by step for interview preparation.
 | [0110-balanced-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
