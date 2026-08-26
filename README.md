@@ -131,6 +131,7 @@ I am learning DSA step by step for interview preparation.
 | [0242-valid-anagram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -295,6 +296,7 @@ I am learning DSA step by step for interview preparation.
 | [0215-kth-largest-element-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
@@ -382,6 +384,7 @@ I am learning DSA step by step for interview preparation.
 | [0146-lru-cache](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -514,6 +517,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0146-lru-cache](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0155-min-stack) |
+| [0355-design-twitter](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
 ## Floyd's Cycle Finding Algorithm
