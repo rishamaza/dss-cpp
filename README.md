@@ -73,6 +73,7 @@ I am learning DSA step by step for interview preparation.
 | [0940-fruit-into-baskets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -94,6 +95,7 @@ I am learning DSA step by step for interview preparation.
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +231,7 @@ I am learning DSA step by step for interview preparation.
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0883-car-fleet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1222-remove-covered-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1222-remove-covered-intervals) |
 ## Binary Search
 |  |
@@ -276,6 +279,7 @@ I am learning DSA step by step for interview preparation.
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0523-continuous-subarray-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Heap (Priority Queue)
@@ -287,6 +291,7 @@ I am learning DSA step by step for interview preparation.
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1127-last-stone-weight) |
 ## Interactive
 |  |
@@ -488,6 +493,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -543,4 +549,12 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
