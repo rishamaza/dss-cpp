@@ -76,6 +76,7 @@ I am learning DSA step by step for interview preparation.
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1185-find-in-mountain-array) |
 | [1222-remove-covered-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1222-remove-covered-intervals) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -286,6 +287,7 @@ I am learning DSA step by step for interview preparation.
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1127-last-stone-weight) |
 ## Interactive
 |  |
 | ------- |
