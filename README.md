@@ -38,6 +38,7 @@ I am learning DSA step by step for interview preparation.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
@@ -88,6 +89,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
@@ -112,6 +114,7 @@ I am learning DSA step by step for interview preparation.
 | [0036-valid-sudoku](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
@@ -447,6 +450,7 @@ I am learning DSA step by step for interview preparation.
 | [0100-same-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0113-path-sum-ii) |
@@ -464,6 +468,7 @@ I am learning DSA step by step for interview preparation.
 | [0100-same-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0113-path-sum-ii) |
