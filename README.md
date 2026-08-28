@@ -572,4 +572,8 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
