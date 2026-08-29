@@ -128,6 +128,7 @@ I am learning DSA step by step for interview preparation.
 | [0141-linked-list-cycle](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
@@ -342,6 +343,7 @@ I am learning DSA step by step for interview preparation.
 | [0125-valid-palindrome](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -362,6 +364,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -520,6 +523,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0146-lru-cache](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
