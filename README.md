@@ -66,6 +66,7 @@ I am learning DSA step by step for interview preparation.
 | [0621-task-scheduler](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0792-binary-search) |
@@ -168,6 +169,7 @@ I am learning DSA step by step for interview preparation.
 | [0199-binary-tree-right-side-view](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Two Pointers
@@ -279,6 +281,7 @@ I am learning DSA step by step for interview preparation.
 | [0200-number-of-islands](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -473,6 +476,7 @@ I am learning DSA step by step for interview preparation.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Tree
 |  |
@@ -523,6 +527,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
 | ------- |
