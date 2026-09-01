@@ -80,6 +80,7 @@ I am learning DSA step by step for interview preparation.
 | [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1185-find-in-mountain-array) |
@@ -172,6 +173,7 @@ I am learning DSA step by step for interview preparation.
 | [0200-number-of-islands](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1036-rotting-oranges) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Two Pointers
@@ -286,6 +288,7 @@ I am learning DSA step by step for interview preparation.
 | [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2047-find-a-peak-element-ii) |
 ## Math
