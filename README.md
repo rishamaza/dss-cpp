@@ -57,6 +57,7 @@ I am learning DSA step by step for interview preparation.
 | [0287-find-the-duplicate-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0417-pacific-atlantic-water-flow](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -172,6 +173,7 @@ I am learning DSA step by step for interview preparation.
 | [0199-binary-tree-right-side-view](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0226-invert-binary-tree) |
+| [0417-pacific-atlantic-water-flow](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1036-rotting-oranges) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
@@ -285,6 +287,7 @@ I am learning DSA step by step for interview preparation.
 | [0200-number-of-islands](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0417-pacific-atlantic-water-flow](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
@@ -480,6 +483,7 @@ I am learning DSA step by step for interview preparation.
 | [0226-invert-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0417-pacific-atlantic-water-flow](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
