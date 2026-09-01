@@ -1,3 +1,9 @@
+/*
+ * LOGIC CHEAT CODE (Multi-Source BFS):
+ * 1. MULTI-SOURCE START: Saare Treasures (0) ko ek saath Queue mein daalo (Ye Wave Level 0 hai).
+ * 2. DISTANCE WAVE: BFS se charo taraf phailo -> Agar neighbor INF hai, toh grid[nr][nc] = grid[r][c] + 1 karke usko Queue mein push karo.
+ */
+
 class Solution {
     // Shortest Path use BFS, DFS will fail 💀
     public void islandsAndTreasure(int[][] grid) {
