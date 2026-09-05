@@ -71,6 +71,7 @@ I am learning DSA step by step for interview preparation.
 | [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -117,6 +118,7 @@ I am learning DSA step by step for interview preparation.
 | [0131-palindrome-partitioning](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 ## Hash Table
 |  |
