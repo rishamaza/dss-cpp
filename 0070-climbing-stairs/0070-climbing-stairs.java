@@ -11,7 +11,7 @@ class Solution {
     }
 }
 */
-
+/* DP (Top - Bottom) # Memoization
 class Solution {
     int[] dp;
     public int climbStairs(int n) {
@@ -31,8 +31,8 @@ class Solution {
         return dp[i] = dfs(n, i + 1) + dfs(n, i + 2);
     }
 }
-
-/* DP (Bottom-Up) with optimized space
+*/
+// DP (Bottom-Up) # Tabulation with optimized space
 class Solution {
     public int climbStairs(int n) {
         int prev1 = 1, prev2 = 1;
@@ -45,4 +45,4 @@ class Solution {
         return prev1;
     }
 }
-*/
+
