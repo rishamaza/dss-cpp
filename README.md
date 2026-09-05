@@ -47,6 +47,7 @@ I am learning DSA step by step for interview preparation.
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -117,6 +118,7 @@ I am learning DSA step by step for interview preparation.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
