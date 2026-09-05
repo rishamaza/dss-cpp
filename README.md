@@ -111,6 +111,7 @@ I am learning DSA step by step for interview preparation.
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0131-palindrome-partitioning) |
@@ -304,6 +305,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
@@ -434,6 +436,7 @@ I am learning DSA step by step for interview preparation.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
 ## Backtracking
 |  |
