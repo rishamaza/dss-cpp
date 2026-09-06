@@ -38,19 +38,14 @@ class Solution {
         if(n == 0) return 0;
         if(n == 1) return nums[0];
 
-        int prev1 = 0; // House -1 (shuruat se pehle) tak ka answer (i - 2 state) dp[i - 2]
-        int prev2 = nums[0]; // House 0 tak ka best answer (i - 1 state) dp[i - 1]
+        int one = nums[0];
+        int two = Math.max(nums[1], one);
 
-        for(int i = 1; i < n; i++){
-            int pick = prev1 + nums[i];
-            int nopick = prev2;
-
-            int curr = Math.max(pick, nopick);
-
-            prev1 = prev2;
-            prev2 = curr;
+        for(int i = 2; i < n; i++){
+            int curr = Math.max(two, nums[i] + one);
+            one = two;
+            two = curr;
         }
-
-        return prev2;
+        return two;
     }
 }
