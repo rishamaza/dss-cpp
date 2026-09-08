@@ -123,6 +123,7 @@ I am learning DSA step by step for interview preparation.
 | [0198-house-robber](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 ## Hash Table
@@ -209,6 +210,7 @@ I am learning DSA step by step for interview preparation.
 | [0234-palindrome-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
@@ -380,6 +382,7 @@ I am learning DSA step by step for interview preparation.
 | [0424-longest-repeating-character-replacement](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
